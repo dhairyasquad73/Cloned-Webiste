@@ -179,3 +179,10 @@ footer{
     margin-left: 46px;
     align-items: center;
 }
+
+
+@media all and (max-width: 500px) {
+    * {
+        display: flex;
+    }
+}
